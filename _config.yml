@@ -52,15 +52,15 @@ header:
 # GITHUB CONFIGURATIONS 
 
 url :               "https://watts-college.github.io"
-baseurl:            "/cpp-526-spr-2022"
-course_url:         "https://watts-college.github.io/cpp-526-spr-2022/"
+baseurl:            "/cpp-526-sum-2022"
+course_url:         "https://watts-college.github.io/cpp-526-sum-2022/"
 title:              DS4PS # don't change this
 
 github_info:
     username:          Watts-College # Github location of the course
     branch:            master
-    website-repo:      cpp-526-spr-2022
-    course-repo:       cpp-526-spr-2022
+    website-repo:      cpp-526-sum-2022
+    course-repo:       cpp-526-sum-2022
 
 
 
