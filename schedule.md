@@ -3,8 +3,8 @@ layout: schedule
 title: Schedule
 
 canvas: 
-  assignment_url: 'https://canvas.asu.edu/courses/108490/assignments'
-  yellowdig_url: 'https://canvas.asu.edu/courses/108490/assignments/2839386'
+  assignment_url: 'https://canvas.asu.edu/courses/119370/'
+  yellowdig_url: 'https://canvas.asu.edu/courses/119370/assignments/3159953'
   
 lab-due-dates:
   lab-01: 'FRI Jan 14'
