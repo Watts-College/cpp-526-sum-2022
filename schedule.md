@@ -7,27 +7,27 @@ canvas:
   yellowdig_url: 'https://canvas.asu.edu/courses/119370/assignments/3159953'
   
 lab-due-dates:
-  lab-01: 'FRI Jan 14'
-  lab-02: 'FRI Jan 21'
-  lab-03: 'FRI Jan 28'
-  lab-04: 'FRI Feb 04'
-  lab-05: 'FRI Feb 11'
-  lab-06: 'FRI Feb 18'
+  lab-01: 'FRI May 20'
+  lab-02: 'FRI May 20'
+  lab-03: 'FRI May 27'
+  lab-04: 'FRI May 27'
+  lab-05: 'FRI Jun 10'
+  lab-06: 'FRI Jun 10'
  
 discussion-dates:
-  topic-00: 'Tues Jan 18'
-  topic-01: 'Tues Jan 25'
-  topic-02: 'Tues Feb 01'
-  topic-03: 'Tues Feb 08'
-  topic-04: 'Tues Feb 15'
-  topic-05: 'Tues Feb 22'
-  topic-06: 'Tues Mar 01'
+  topic-00: 'Wed May 18'
+  topic-01: 'Wed May 25'
+  topic-02: 'Wed Jun 01'
+  topic-03: 'Wed Jun 08'
+  topic-04: 'Wed Jun 15'
+  topic-05: 'Wed Jun 22'
+  topic-06: 'Fri Jun 24'
   
 final-project:
-  due-date: 'Tues Mar 1'
+  due-date: 'Tues Jun 22'
 
 code-through:
-  due-date: 'Tues March 11'
+  due-date: 'Tues Jun 22'
   
 ---
  
@@ -346,7 +346,7 @@ We are going to throw a lot at you, but also provide a lot of support. Over thes
 If you find something confusing, let us know (likely others will find it confusing as well). 
 
 * Schedule a Zoom call with your instructor and screen share to walk through issues
-* Post a question to the [course discussion board](https://ds4ps.org/cpp-526-sum-2020/help/)
+* Post a question to the [course discussion board](https://watts-college.github.io/cpp-526-sum-2022/help/)
 * Request a walk-through and your instructor will provide examples and steps 
 
 As a general rule of thumb, if you are stuck on the math or code for a problem, need clarification about what the question is asking, want to make sure you understand a formula, or are having similar issues then the help discussion page is the easiest and quickest way to get help. If you are confused about concepts or having a hard time even formulating your question, then virtual office hours are your best option.
