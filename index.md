@@ -14,11 +14,11 @@ info:
  course_number: CPP 526 
  course_level: Graduate 
  course_website: 'https://canvas.asu.edu/courses/108490'
- course_start_end_dates: January 10 - March 11, 2021
+ course_start_end_dates: May 16 - June 24, 2022
  course_prerequisites:  
  class_meets_when:  Asynchronous  
  class_meets_where:  Online
- discussion_board_url: 'https://watts-college.github.io/cpp-526-spr-2022/help/'
+ discussion_board_url: 'https://watts-college.github.io/cpp-526-sum-2022/help/'
 
 instructor:
 -  name: Giovanni Circo
