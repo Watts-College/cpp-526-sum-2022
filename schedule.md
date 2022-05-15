@@ -8,11 +8,11 @@ canvas:
   
 lab-due-dates:
   lab-01: 'FRI May 20'
-  lab-02: 'FRI May 20'
-  lab-03: 'FRI May 27'
-  lab-04: 'FRI May 27'
-  lab-05: 'FRI Jun 10'
-  lab-06: 'FRI Jun 10'
+  lab-02: 'FRI May 27'
+  lab-03: 'FRI Jun 03'
+  lab-04: 'FRI May 10'
+  lab-05: 'FRI Jun 17'
+  lab-06: 'FRI Jun 17'
  
 discussion-dates:
   topic-00: 'Wed May 18'
@@ -24,10 +24,10 @@ discussion-dates:
   topic-06: 'Fri Jun 24'
   
 final-project:
-  due-date: 'Tues Jun 22'
+  due-date: 'Tues Jun 24'
 
 code-through:
-  due-date: 'Tues Jun 22'
+  due-date: 'Tues Jun 24'
   
 ---
  
